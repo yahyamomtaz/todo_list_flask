@@ -12,11 +12,14 @@ A simple todo list app built with Flask and SQLite.
 
 ## Installation & Run
 
-```pip install Flask Flask-SQLAlchemy Flask-Migrate
+```console
+pip install Flask Flask-SQLAlchemy Flask-Migrate
 ```
 
-```python run.py create_db
+```console
+python run.py create_db
 ```
 
-```python run.py run
+```console
+python run.py run
 ```
